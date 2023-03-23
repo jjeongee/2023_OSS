@@ -1,17 +1,18 @@
 # 2023_OSS
-   ## 2023_OSS 수업
-   ### 이미지
-   ![kau_image](/Users/jjeongee/Desktop/projects/2023_OSS/w3/kau_mark.png)
-   ### 3주차 git
-    [mdfile_link](/Users/jjeongee/Desktop/projects/2023_OSS/w3/README.md)
-    ### LMS 링크
-    [lms_link](https://lms.kau.ac.kr/)
-    ### ProGit 링크
-    [gitbook_link](https://git-scm.com/book/ko/v2)
-    ### 주요 git 명령어
-    - add: 파일을 추적 대상으로 포함시킬때, 또는 커밋 대상으로 포함시킬
+## 2023_OSS 수업
+### 이미지
+[!kau_img](/Users/jjeongee/Desktop/projects/2023_OSS/w3/kau_mark.png)
+### 3주차 git
+[md_link](/Users/jjeongee/Desktop/projects/2023_OSS/w3/README.md)
+### LMS 링크
+[lms_link](https://lms.kau.ac.kr/)
+### Gitbook 링크
+[gitbook_link](https://git-scm.com/book/ko/v2)
+### 주요 git 명령어
+- add: 파일을 추적 대상으로 포함시킬때, 또는 커밋 대상으로 포함시킬
    >    > - ex) git add
-    ```
+
+```
 #!/usr/bin/env bash
 echo "—————"
 echo "name :"
@@ -39,6 +40,7 @@ echo "—————"
 echo "lask line :"
 tail -n 1 $file_path
 ```
+
 #마크다운
 ## 목록
 ### 번호 있는 목록 : 내림차순 정렬
