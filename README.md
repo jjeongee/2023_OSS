@@ -1,7 +1,7 @@
 # 2023_OSS
 ## 2023_OSS 수업
 ### 이미지
-[!kau_img](/Users/jjeongee/Desktop/projects/2023_OSS/w3/kau_mark.png)
+![kau_img](/Users/jjeongee/Desktop/projects/2023_OSS/w3/kau_mark.png)
 ### 3주차 git
 [md_link](/Users/jjeongee/Desktop/projects/2023_OSS/w3/README.md)
 ### LMS 링크
@@ -41,7 +41,7 @@ echo "lask line :"
 tail -n 1 $file_path
 ```
 
-#마크다운
+# 마크다운
 ## 목록
 ### 번호 있는 목록 : 내림차순 정렬
 1. first
@@ -54,7 +54,7 @@ tail -n 1 $file_path
 - third
 
 ***
--red
+- red
 >       >- green
 >       >       >- blue
 
