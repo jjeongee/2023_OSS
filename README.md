@@ -1,7 +1,7 @@
 # 2023_OSS
 ## 2023_OSS 수업
 ### 이미지
-![kau_img](/Users/jjeongee/Desktop/projects/2023_OSS/w3/kau_mark.png)
+![kau_img](./kau_mark.png)
 ### 3주차 git
 [md_link](/Users/jjeongee/Desktop/projects/2023_OSS/w3/README.md)
 ### LMS 링크
@@ -55,6 +55,5 @@ tail -n 1 $file_path
 
 ***
 - red
->       >- green
->       >       >- blue
-
+	- green
+		- blue
